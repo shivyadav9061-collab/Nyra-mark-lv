@@ -122,7 +122,7 @@ def main() -> None:
     print("\n✅ Setup complete!")
     print("   1) Launch it:  python main.py")
     print("   2) Paste your free Gemini API key when the setup screen appears.")
-    print("   3) (Optional) Enable 'Hey Jarvis' from ⚙ → WAKE WORD.")
+    print("   3) (Optional) Enable 'Hey nyra' from ⚙ → WAKE WORD.")
 
 
 if __name__ == "__main__":
